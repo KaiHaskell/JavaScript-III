@@ -1,10 +1,10 @@
 /* The for principles of "this";
  * in your own words. explain the four principle for the "this" keyword below.
  *
- * 1.
- * 2.
- * 3.
- * 4.
+ * 1. the result you receive when "this" has no context
+ * 2. the object before the . is "this" when calling a function
+ * 3. returns a specific instance used by a constructor function
+ * 4. this defined by .call or .apply
  *
  * write out a code example of each explanation above
  */
